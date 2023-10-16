@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on honing my skills in Java, Data Structures, Algorithms, and Web Development.<br>👯 I’m looking to collaborate on innovative IT projects and web development initiatives.<br>🤝 I’m looking for help with mastering advanced coding techniques and exploring cutting-edge IT solutions.<br>🌱 I’m currently learning about the latest trends in Information Technology and advanced coding practices.<br>💬 Ask me about my experience in QA/QC engineering, mechanical design, and manufacturing processes.<br>⚡ Fun fact: I thrive on new challenges and love exploring the intersection of technology and creativity!
+🔭 I’m currently working on honing my skills in Java, Data Structures, Algorithms, and Web Development.<br>👯 I’m looking to collaborate on innovative IT projects and web development initiatives.<br>🤝 I’m looking for help with mastering advanced coding techniques and exploring cutting-edge IT solutions.<br>🌱 I’m currently learning about the latest trends in Information Technology and advanced coding practices. <br>⚡ Fun fact: I thrive on new challenges and love exploring the intersection of technology and creativity!
 
 
 ## 🌐 Socials:
